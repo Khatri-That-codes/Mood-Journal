@@ -43,3 +43,20 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+
+
+# Flutter build artifacts
+.flutter-plugins
+.packages
+
+
+
+# IDE-specific files
+.vscode/
+
+# OS-specific files
+Thumbs.db
+
+# Other
+*.lock
